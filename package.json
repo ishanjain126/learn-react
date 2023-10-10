@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React from basics to advanced",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanjain126/learn-react.git"
+  },
+  "keywords": [
+    "react",
+    "interview",
+    "basics",
+    "advanced"
+  ],
+  "author": "Ishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishanjain126/learn-react/issues"
+  },
+  "homepage": "https://github.com/ishanjain126/learn-react#readme"
+}
