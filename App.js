@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /** Create the nested structure along with the siblings inside the react
  *
  *
