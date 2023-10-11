@@ -32,6 +32,7 @@ const titleElement = <h1>This is the title element</h1>;
 const HeadingComponent = () => (
   <div>
     <Title />
+    <Title></Title>
     {titleElement}
     <h1>Welcome to React Course</h1>
   </div>
